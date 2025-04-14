@@ -1,0 +1,5 @@
+print('Este archivo contiene varias celdas')
+print('Este programa es similar a una calculadora')
+print('2+2=', 2+2)
+print('5-2=', 5-2)
+print('2x2=', 2*2)
